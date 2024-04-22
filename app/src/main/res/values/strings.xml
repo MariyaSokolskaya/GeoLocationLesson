@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoLocationLesson</string>
+    <string name="title_text">Геолокация</string>
+    <string name="lat_text">Широта</string>
+    <string name="long_text">Долгота</string>
+    <string name="button_text">Перейти на карту</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
